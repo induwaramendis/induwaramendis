@@ -12,7 +12,7 @@
 
 - 🌱 I’m currently learning **Computer Science and Engineering Higher diploma in ICBT Campus**
 
-- 👯 I’m looking for **Intern**
+- 👯 I’m looking for **Internship**
 
 - 🤝 I’m available for **freelancing(Adobe indesign/ user-interface design / webdevelopment).**
 
