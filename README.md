@@ -10,13 +10,13 @@
 
 - 🔭 I’m currently following on **Software Engineering degree in Cardiff Metropolitan University, Uk**
 
-- 🌱 I’m currently learning **Computer Science and Engineering Higher diploma in ICBT Campus**
+- 🌱 I’m currently finished **Computer Science and Engineering Higher diploma in ICBT Campus**
 
 - 👯 I’m looking for **Internship**
 
 - 🤝 I’m available for **freelancing(Adobe indesign/ user-interface design / webdevelopment).**
 
-- 💬 Ask me about **Java,Html,PHP,CSS,JavaScript, Firebase**
+- 💬 Ask me about **Java,Html,PHP,CSS,JavaScript,C#, ASP.Net, Firebase**
 
 - 📫 How to reach me **induwaramendis419@gmail.com**
 
